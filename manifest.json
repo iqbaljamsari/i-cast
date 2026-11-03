@@ -1,0 +1,9 @@
+{
+  "name": "iCast Classroom",
+  "short_name": "iCast",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#10243d",
+  "description": "Paparan media dan panduan sambungan iPad ke Android TV."
+}
